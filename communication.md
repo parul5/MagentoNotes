@@ -18,3 +18,13 @@ We tried to restore your Magento into our testing server, and in between, we got
 
 I have forwarded the ticket to our Infrastructure team.
 Please keep a lookout for their update.
+
+## :::::: ADMIN USER PERMISSION:::::::
+I am able to access your environment on our testing server.
+ 
+To reproduce this issue and further investigate, Please allow me to create the test admin user on the staging environment, or create an admin user for us. You can upload any needed credentials into a plain text file in the /tmp/ directory on any node in your cluster.
+
+Please avoid posting sensitive information via email or the ticket system, you can upload any needed credentials into a plain text file in the /tmp/ directory on any node in your cluster.
+ 
+Beforehand, for testing, please confirm the following --
+Admin Action Logging is enabled -- https://docs.magento.com/user-guide/system/action-log.html
